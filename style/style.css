@@ -111,3 +111,14 @@ ul {
 .h4{
     margin-top: 100px;
 }
+
+.stats{
+    display: flex;
+    text-align: center;
+    
+}
+.stats-head{
+  }  
+.stats-main{
+background-color: rgba(78, 71, 255, .1);
+}
