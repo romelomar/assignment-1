@@ -161,10 +161,19 @@ padding: 50px 142px;
     font-weight: bold;
     text-align: center;
 }
+.review-section{
+    
+}
 
 .star{
-    display: flex;
    justify-content: center;
+   display: flex;
+   
+}
+
+.avatar{
+    border-radius: 50%;
+    
 }
 /* led section styles */
 .led-section{
@@ -269,8 +278,4 @@ footer{
     font-weight: 300;
     color: #8987A1;
     padding: 20px 40px 103px 0;
-}
-
-.avatar{
-    display: flex;
 }
