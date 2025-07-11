@@ -158,5 +158,30 @@ padding: 50px 142px;
 
 /* led section styles */
 .led-section{
+   align-items: center;
+   text-align: center;
+   justify-content: center;
+   max-width:1140px;
+   height: auto;
+   border-radius: 14px;
+   background-color: white; 
+   margin: 137px 125px 95px 215px ;
+   padding: 71px 150px;
 
+}
+.led-title{
+    font-size: 50px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.led-descre{
+    font-size: 16px;
+    color: rgba(0, 0, 0, .5);
+}
+.led-btn{
+    font-weight: 400;
+    margin: 0;
 }
