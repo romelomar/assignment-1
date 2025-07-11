@@ -96,7 +96,7 @@ ul {
 }
 .main{
     display: flex;
-    margin: 116px 169px 0 141px;
+    margin: 86px 169px 116px  141px;
     justify-content: space-between;
     align-items: center;
     
@@ -114,11 +114,9 @@ ul {
 
 .stats{
     display: flex;
-    text-align: center;
-    
+    text-align: center;   
 }
-.stats-head{
-  }  
+
 .stats-main{
 background-color: rgba(78, 71, 255, .1);
 }
