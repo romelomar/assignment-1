@@ -270,3 +270,7 @@ footer{
     color: #8987A1;
     padding: 20px 40px 103px 0;
 }
+
+.avatar{
+    display: flex;
+}
