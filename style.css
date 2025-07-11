@@ -1,6 +1,10 @@
-body{
-    margin: 0;
+*{
+     margin: 0;
     padding: 0;
+}
+
+body{
+   
     background-color: #F5F8FF;
 }
 
@@ -90,13 +94,13 @@ ul {
 .action-description{
     font-size: 24px;
     font-weight: 400;
-    margin: 23px 0;
+    margin: 23px 0 ;
     width: 517px;
     height: auto;
 }
 .main{
     display: flex;
-    margin: 86px 169px 116px  141px;
+    margin: 116px 260px 116px  220px;
     justify-content: space-between;
     align-items: center;
     
@@ -105,8 +109,7 @@ ul {
     border-radius: 45px;
 }
 .btn-launch{
-    margin-left: 0;
-    margin-top: 0;
+ margin: 0;
 }
 
 .stats{
@@ -171,14 +174,52 @@ padding: 50px 142px;
     font-weight: bold;
     justify-content: center;
     align-items: center;
-    margin-top: 0;
-    margin-bottom: 0;
+    
 }
 .led-descre{
     font-size: 16px;
+    margin: 20px 0;
     color: rgba(0, 0, 0, .5);
 }
 .led-btn{
     font-weight: 400;
     margin: 0;
+    margin-bottom: 20px;
+}
+.touch-title{
+    font-size: 97px;
+    font-weight: bold;
+    width: 528px;
+
+}
+.get-touch{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 240px 0 220px;
+    background-color:rgba(255,255,255,.5);
+    padding: 71px 0;
+    
+}
+.form{
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(0,0,0,.5);
+    margin: 10px 0 19px 0;
+    width: 497px;
+    height: 70px;
+    border-radius: 10px;
+    border: 2px solid #D6DDED;
+    padding:0 0 0 32px;
+}
+.text-small{
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.message{
+    width: 497px;
+    height: 135px;
+
 }
