@@ -24,7 +24,7 @@ body{
     
 
 .header{
-    background-image: url(../Assets/Hero-bg.png);
+    background-image: url(Hero-bg.png);
     height: 652px;
 }
 /* shared styles */
